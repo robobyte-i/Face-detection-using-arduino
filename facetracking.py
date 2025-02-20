@@ -3,7 +3,7 @@ from cvzone.FaceDetectionModule import FaceDetector
 import serial
 import numpy as np
 
-# Initialize serial communication (adjust 'COM6' to the correct port)
+# Initialize serial communication (adjust 'COM4' to the correct port)
 arduino = serial.Serial('COM4', 9600)  # Use the correct port for your system
 
 cap = cv2.VideoCapture(0)
