@@ -43,3 +43,5 @@ This project implements **real-time face tracking** using **OpenCV** and **cvzon
 
 ## **📜 License**  
 This project is **open-source** under the MIT License. Feel free to modify and enhance it! 🚀
+Any doubts or clarification contact:aswindowney@gmail.com
+
